@@ -1,0 +1,3 @@
+[submodule "lostfound-frontend"]
+	path = lostfound-frontend
+	url = https://github.com/eljeyzydr/lostfound-frontend.git
