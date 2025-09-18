@@ -26,7 +26,8 @@ return [
     |
     */
 
-    'view_path' => base_path('../lostfound-frontend/resources/views'),
+    'view_path' => resource_path('../lostfound-frontend/resources/views'),
+
 
 
     /*
