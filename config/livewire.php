@@ -26,7 +26,8 @@ return [
     |
     */
 
-    'view_path' => resource_path('views/livewire'),
+    'view_path' => base_path('../lostfound-frontend/resources/views'),
+
 
     /*
     |---------------------------------------------------------------------------
